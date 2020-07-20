@@ -11,7 +11,7 @@ class MyComponent extends Component {
     return <ul>
       <span>hello</span>
       <span class="name">world</span>
-      <span>!!!</span>
+      <span>!!!1</span>
       <div>
         <Mycomponent2></Mycomponent2>
       </div>
